@@ -1,1 +1,1 @@
-# arXivNews
+# arXiv News
